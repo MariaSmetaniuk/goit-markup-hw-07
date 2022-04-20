@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", sans-serif;
+    font-family: $main-font;
     color: $primary-text-mode-light;
 }
 
@@ -19,4 +19,10 @@ img {
     display: block;
     max-width: 100%;
     height: auto;
+}
+.link {
+    text-decoration: none;
+}
+.list {
+    list-style: none;
 }

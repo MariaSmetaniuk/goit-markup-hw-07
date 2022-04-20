@@ -1,15 +1,11 @@
 // Змінні
-@import './variables/variables';
+@import './utils/variables';
 
 // visually-hidden
 @import './utils/visually-hidden';
 
 // База
 @import './base/base';
-
-// Скидання стилів спискам і посиланням
-@import './base/list-none';
-@import './base/link-none';
 
 // Контейнер
 @import './components/container';

@@ -1,8 +1,8 @@
 @charset "UTF-8";
-/* Цвета текста светлая тема */
-/* Цвета текста темная тема */
-/* Цвета фона */
-/* Цвета иконок */
+/* Кольори тексту світла тема */
+/* Кольори тексту темна тема */
+/* Кольори фону */
+/* Кольори іконок */
 /* Рамка  */
 /* Перехід анімований */
 .visually-hidden {
@@ -41,12 +41,12 @@ img {
   height: auto;
 }
 
-.list {
-  list-style: none;
-}
-
 .link {
   text-decoration: none;
+}
+
+.list {
+  list-style: none;
 }
 
 .container {
@@ -627,7 +627,7 @@ img {
 }
 
 .projects__category {
-  font-style: 16px;
+  font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
   color: #757575;
